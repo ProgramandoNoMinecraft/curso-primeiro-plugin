@@ -1,0 +1,5 @@
+name: curso
+authors:
+  - Cassio Martim
+version: 1.0.0
+main: com.curso.Main
